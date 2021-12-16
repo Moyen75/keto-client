@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/pf0Q0KX/blog1.jpg",
+        "description": "this is our new addition in keto hotel.we always try to give our best to our clients."
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/K965Lmq/blog2.jpg",
+        "description": "this is our new addition in keto hotel.we always try to give our best to our clients."
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/BKTKTQW/blog3.jpg",
+        "description": "this is our new addition in keto hotel.we always try to give our best to our clients."
+    }
+]
